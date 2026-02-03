@@ -15,3 +15,4 @@ Linea ventas 1
 Linea ventas 2
 Linea proveedores 2
 Release 1.1.0 linea 1
+Release 1.1.0 linea 2
