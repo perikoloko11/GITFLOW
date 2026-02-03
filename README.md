@@ -4,3 +4,4 @@ Linea catalogo 1
 Linea catalogo 2
 Linea catalogo 3
 Linea stock 1
+Linea stock 2
